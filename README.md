@@ -5,8 +5,9 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 | Nama |
 | ---- |
-| [giovanism](#giovanism) |
-| [laymonage](#laymonage) |
+| [giovanism](#giovanism)             |
+| [laymonage](#laymonage)             |
+| [ahmad-fauzan458](#ahmad-fauzan458) |
 
 ## Daftar proyek
 
@@ -35,6 +36,11 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
 
+### [ahmad-fauzan458][ahmad-fauzan458]
+
+- [LabDDP0][labddp0]\
+  Contoh soal lab python. 
+ 
 [giovanism]: https://github.com/giovanism
 [GMD]: https://github.com/giovanism/GMD
 [tsudo]: https://github.com/giovanism/tsudo
@@ -46,3 +52,6 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarungbot]: https://github.com/laymonage/TarungBot
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
+
+[ahmad-fauzan458]: https://github.com/ahmad-fauzan458
+[labddp0]: https://github.com/ahmad-fauzan458/LabDDP0
