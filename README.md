@@ -5,12 +5,17 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 | Nama |
 | ---- |
+| [ahmad-fauzan458](#ahmad-fauzan458) |
 | [giovanism](#giovanism)             |
 | [laymonage](#laymonage)             |
-| [ahmad-fauzan458](#ahmad-fauzan458) |
 
 ## Daftar proyek
 
+### [ahmad-fauzan458][ahmad-fauzan458]
+
+- [LabDDP0][labddp0]\
+  Contoh soal lab python. 
+  
 ### [giovanism][giovanism]
 
 - [GMD][GMD]\
@@ -35,11 +40,9 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
   Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
-
-### [ahmad-fauzan458][ahmad-fauzan458]
-
-- [LabDDP0][labddp0]\
-  Contoh soal lab python. 
+ 
+[ahmad-fauzan458]: https://github.com/ahmad-fauzan458
+[labddp0]: https://github.com/ahmad-fauzan458/LabDDP0 
  
 [giovanism]: https://github.com/giovanism
 [GMD]: https://github.com/giovanism/GMD
@@ -53,5 +56,4 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
 
-[ahmad-fauzan458]: https://github.com/ahmad-fauzan458
-[labddp0]: https://github.com/ahmad-fauzan458/LabDDP0
+
